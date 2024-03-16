@@ -3,8 +3,8 @@
 this project observes a few galaxies in 12CO and 13CO.
 
 
-IC3392
+IC3392 - detection
 
-NGC4189
+NGC4189 - detection
 
-NGC5347
+NGC5347 - detection
