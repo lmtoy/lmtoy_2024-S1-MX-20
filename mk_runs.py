@@ -21,9 +21,9 @@ on["NGC5347"] = [ 112756, 112758, 112760, 112762, 112764, 112770, 112772,
 
 #        common parameters per source on the first dryrun (run1a, run2a)
 pars1 = {}
-pars1["IC3392"]  = "pix_list=-13,14,15"
-pars1["NGC4189"] = "pix_list=-13,14,15"
-pars1["NGC5347"] = "pix_list=-13,14,15"
+pars1["IC3392"]  = "pix_list=-13,14,15  dv=150 dw=250"
+pars1["NGC4189"] = "pix_list=-13,14,15  dv=150 dw=250"
+pars1["NGC5347"] = "pix_list=-13,14,15  dv=150 dw=250"
 
 
 #        common parameters per source on subsequent runs (run1b, run2b), e.g. bank=0 for WARES
