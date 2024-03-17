@@ -8,4 +8,5 @@ IC3392 - detection
 
 NGC4189 - detection
 
-NGC5347 - detection
+NGC5347 - detection, but vlsr seems bit higher ~2400 (NED:  2380)
+   
