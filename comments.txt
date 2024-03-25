@@ -1,2 +1,3 @@
 #  <obsnum>   <comment>     # <SLpipeline args>
 #123456    QAFAIL     # ...
+112756_112960 Central detection visible
