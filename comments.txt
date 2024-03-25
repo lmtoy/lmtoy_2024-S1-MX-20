@@ -1,2 +1,5 @@
 #  <obsnum>   <comment>     # <SLpipeline args>
 #123456    QAFAIL     # ...
+112958 Birdie around channel ~800 [bank 1 only]
+112960 Birdie around channel ~800 [bank 1 only]
+112756_112960 Central detection visible
