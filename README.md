@@ -9,4 +9,9 @@ IC3392 - detection
 NGC4189 - detection
 
 NGC5347 - detection, but vlsr seems bit higher ~2400 (NED:  2380)
-   
+
+NGC5899 - detection, but signal was much wider, probably needs dv=350. 
+          also vlsr=2650 or so, but needs checking with NED ? PI seems to give
+          lower value
+
+
