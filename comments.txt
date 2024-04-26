@@ -1,3 +1,7 @@
 #  <obsnum>   <comment>     # <SLpipeline args>
 #123456    QAFAIL     # ...
-112756_112960 Central detection visible
+113113 BANK 1: birdies beam 10 (~1860 km/s) and 11 (~2090 km/s)
+114784 BANK 0: birdies beam 1 and 6 channel ~400; BANK 1: birdie beam 3 channel ~400
+112756_112960 [26/26] Strong detection bank 0, weak detection bank 1
+113113_116487 [30/30] Strong detection bank 0, weak detection bank 1
+114780_116501 [26/26] Strong detection bank 0, weak detection bank 1

@@ -28,21 +28,23 @@ pars1 = {}
 pars1["IC3392"]  = "pix_list=-13,14,15  dv=150 dw=250"
 pars1["NGC4189"] = "pix_list=-13,14,15  dv=150 dw=250"
 pars1["NGC5347"] = "pix_list=-13,14,15  dv=150 dw=250 vlsr=2400"
+pars1["NGC5899"] = "pix_list=-13,14,15  dv=350 dw=400 vlsr=2650"
 
 
 #        common parameters per source on subsequent runs (run1b, run2b), e.g. bank=0 for WARES
 pars2 = {}
-pars2["IC3392"]  = "pix_list=-13"
-pars2["NGC4189"] = "pix_list=-13"
-pars2["NGC5347"] = "pix_list=-13"
+pars2["IC3392"]  = "bank=0 pix_list=-13"
+pars2["NGC4189"] = "bank=0 pix_list=-13"
+pars2["NGC5347"] = "bank=0 pix_list=-13"
+pars2["NGC5899"] = "bank=0 pix_list=-13"
 
 
 #        common parameters per source on subsequent runs (run1c, run2c), e.g. bank=1 for WARES
 pars3 = {}
-pars3["IC3392"]  = "pix_list=-13,14,15"
-pars3["NGC4189"] = "pix_list=-13,14,15"
-pars3["NGC5347"] = "pix_list=-13,14,15"
-
+pars3["IC3392"]  = "bank=1 pix_list=-13,14,15"
+pars3["NGC4189"] = "bank=1 pix_list=-13,14,15"
+pars3["NGC5347"] = "bank=1 pix_list=-13,14,15"
+pars3["NGC5899"] = "bank=1 pix_list=-13,14,15"
 
 if __name__ == '__main__':    
     runs.mk_runs(project, on, pars1, pars2, pars3, sys.argv)
