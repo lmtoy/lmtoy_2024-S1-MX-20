@@ -1,5 +1,12 @@
 #  <obsnum>   <comment>     # <SLpipeline args>
-#123456    QAFAIL     # ...
-112958 Birdie around channel ~800 [bank 1 only]
-112960 Birdie around channel ~800 [bank 1 only]
-112756_112960 Central detection visible
+
+112958__1 Birdie around channel ~800 [bank 1 only]
+112960__1 Birdie around channel ~800 [bank 1 only]
+
+113113__1 birdies beam 10 (~1860 km/s) and 11 (~2090 km/s)
+114784__0 birdies beam 1 and 6 channel ~400; BANK 1: birdie beam 3 channel ~400
+
+112756_112960 [13/13] Strong detection bank 0, weak detection bank 1
+113113_116487 [15/15] Strong detection bank 0, weak detection bank 1
+114780_116501 [13/13] Strong detection bank 0, weak detection bank 1
+
