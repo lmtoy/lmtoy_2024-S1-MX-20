@@ -3,6 +3,10 @@
 112958 Birdie around channel ~800 [bank 1 only]
 112960 Birdie around channel ~800 [bank 1 only]
 
+123376__1  beam 1 bad
+123378__1  beam 1 bad
+123380__1  beam 1 now ok
+
 113113 birdies beam 10 (~1860 km/s) and 11 (~2090 km/s)
 114784 birdies beam 1 and 6 channel ~400; BANK 1: birdie beam 3 channel ~400
 
