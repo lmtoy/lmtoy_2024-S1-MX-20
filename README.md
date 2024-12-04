@@ -7,6 +7,8 @@ In individual cases some baselines were unusually unstable and will need close i
 
 IC3392 - detection
 
+NGC3430 - detection, unclear at 13CO
+
 NGC4189 - detection
 
 NGC5347 - detection, but vlsr seems bit higher ~2400 (NED:  2380)
