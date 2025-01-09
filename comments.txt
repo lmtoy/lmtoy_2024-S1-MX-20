@@ -3,8 +3,8 @@
 112958 Birdie around channel ~800 [bank 1 only]
 112960 Birdie around channel ~800 [bank 1 only]
 
-123376__1  beam 1 bad
-123378__1  beam 1 bad
+123376__1  beam 1 bad         # pix_list=-1,13,14,15
+123378__1  beam 1 bad         # pix_list=-1,13,14,15
 123380__1  beam 1 now ok
 
 113113 birdies beam 10 (~1860 km/s) and 11 (~2090 km/s)
@@ -16,15 +16,15 @@
 116501__1 beam 4 tsys edge
 
 
-123376__1  beam 1 wavy
-123378__1  beam 1 weak wavy
-123549__1  beam 1 wavy
-124121__1  beam 1,7 wavy
-124456__1  beam 1,7 wavy
-124458__1  beam 7 wavy
-124466__1  beam 7 wavy
-124476__1  beam 7 wavy
-124478__1  beam 7 weak wavy
+123376__1  beam 1 wavy          # pix_list=-1,13,14,15
+123378__1  beam 1 weak wavy     # pix_list=-1,13,14,15
+123549__1  beam 1 wavy          # pix_list=-1,13,14,15
+124121__1  beam 1,7 wavy        # pix_list=-1,7,13,14,15
+124456__1  beam 1,7 wavy        # pix_list=-1,7,13,14,15
+124458__1  beam 7 wavy          # pix_list=-7,13,14,15
+124466__1  beam 7 wavy          # pix_list=-7,13,14,15
+124476__1  beam 7 wavy          # pix_list=-7,13,14,15
+124478__1  beam 7 weak wavy     # pix_list=-7,13,14,15
 
 
 112756_112960 [13/13] Strong detection bank 0, weak detection bank 1
