@@ -11,24 +11,32 @@
 113113 birdies beam 10 (~1860 km/s) and 11 (~2090 km/s)
 114784 birdies beam 1 and 6 channel ~400; BANK 1: birdie beam 3 channel ~400
 
+113472__0 beam 1 "wavy" #pix_list=-1
 
 116497__0  lots small wavys
 116499__0 lots small wavys
 116501__1 beam 4 tsys edge
 
 
-123376__1  beam 1 wavy
-123378__1  beam 1 weak wavy
-123549__1  beam 1 wavy
-124121__1  beam 1,7 wavy
-124456__1  beam 1,7 wavy
-124458__1  beam 7 wavy
-124466__1  beam 7 wavy
-124476__1  beam 7 wavy
-124478__1  beam 7 weak wavy
+123376__1  beam 1 wavy	#pix_list=-1
+123378__1  beam 1 weak wavy #pix_list=-1
+123549__1  beam 1 wavy	#pix_list=-1
+124121__1  submitted for re-observation, beam 1,7 wavy #pix_list=-1,-7
+124456__1  submitted for re-observation, beam 1,7 wavy #pix_list=-1,-7
+124458__1  beam 7 wavy #pix_list=-7
+124466__1  beam 7 wavy #pix_list=-7
+124476__1  beam 7 wavy #pix_list=-7
+124478__1  beam 7 weak wavy #pix_list=-7
+124744__1  beam 1 wavy #pix_list=-1
+124746__1  beam 7 wavy #pix_list=-7
+124748__1  beam 7 wavy #pix_list=-7
+124750__1  beam 7 wavy #pix_list=-7
 
 
 112756_112960 [13/13] Strong detection bank 0, weak detection bank 1
 113113_116487 [15/15] Strong detection bank 0, weak detection bank 1
 114780_116501 [13/13] Strong detection bank 0, weak detection bank 1
-
+124476_124478 [5/5] Strong detection bank 0, no obvious detection bank 1
+124466_124750 [5/5] Strong detection bank 0, no obvious detection 1
+113121_113476 [10/10] Strong detection bank 0, weak detection bank 1
+124750_124762 [3/3]
