@@ -15,13 +15,20 @@ on["IC3392"] =  [ 113121, 113123, 113125, 113470, 113472, 113474, 113476,
 
 on["NGC3338"] = [ 124466,                             # dec 3
                   124744, 124746, 124748, 124750,     # dec 5
-                  124860, 124862, 124864, 124868,]    # dec 10
+                  124860, 124862, 124864, 124868,     # dec 10
+                  126792, ]
 
 
 on["NGC3430"] = [ 123376, 123378, 123380,    # nov 26
                   123549,                    # nov 27
                   124121, 124123,            # dec 1
-                  124456, 124458,]           # dec 3
+                  124456, 124458,            # dec 3
+	          126802, 
+                  126928, 126930,]           # feb 9
+
+on["NGC3486"] = [ 126936, 126938, 126940, 126946, 126948,]       # feb 9
+
+
 
 on["NGC4189"] = \
  [ 113113, 113115, 113117, 113462, 113464, 113466, 115034, 115036, 115038, 
@@ -46,6 +53,7 @@ pars1 = {}
 pars1["IC3392"]  = "pix_list=-13,14,15  dv=150 dw=250 qagrade=3"
 pars1["NGC3338"] = "pix_list=-13,14,15  dv=250 dw=250 qagrade=3"
 pars1["NGC3430"] = "pix_list=-13,14,15  dv=150 dw=250 qagrade=3"
+pars1["NGC3486"] = "pix_list=-13,14,15  dv=150 dw=250 qagrade=3"
 pars1["NGC4189"] = "pix_list=-13,14,15  dv=150 dw=250 qagrade=3"
 pars1["NGC5012"] = "pix_list=-13,14,15  dv=300 dw=300 qagrade=3"
 pars1["NGC5347"] = "pix_list=-13,14,15  dv=150 dw=250 vlsr=2400 qagrade=3"
@@ -57,6 +65,7 @@ pars2 = {}
 pars2["IC3392"]  = "bank=0 pix_list=-13"
 pars2["NGC3338"] = "bank=0 pix_list=-13"
 pars2["NGC3430"] = "bank=0 pix_list=-13"
+pars2["NGC3486"] = "bank=0 pix_list=-13"
 pars2["NGC4189"] = "bank=0 pix_list=-13"
 pars2["NGC5012"] = "bank=0 pix_list=-13"
 pars2["NGC5347"] = "bank=0 pix_list=-13"
@@ -68,6 +77,7 @@ pars3 = {}
 pars3["IC3392"]  = "bank=1 pix_list=-13,14,15"
 pars3["NGC3338"] = "bank=1 pix_list=-13,14,15"
 pars3["NGC3430"] = "bank=1 pix_list=-13,14,15"
+pars2["NGC3486"] = "bank=1 pix_list=-13,14,15"
 pars3["NGC4189"] = "bank=1 pix_list=-13,14,15"
 pars3["NGC5012"] = "bank=1 pix_list=-13,14,15"
 pars3["NGC5347"] = "bank=1 pix_list=-13,14,15"
