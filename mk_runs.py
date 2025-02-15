@@ -26,7 +26,8 @@ on["NGC3430"] = [ 123376, 123378, 123380,    # nov 26
 	          126802, 
                   126928, 126930,]           # feb 9
 
-on["NGC3486"] = [ 126936, 126938, 126940, 126946, 126948,]       # feb 9
+on["NGC3486"] = [ 126936, 126938, 126940, 126946, 126948,       # feb 9
+                  127068, 127070, 127072, 127080,]              # feb 10
 
 
 
@@ -52,8 +53,8 @@ on["NGC5899"] = \
 pars1 = {}
 pars1["IC3392"]  = "pix_list=-13,14,15  dv=150 dw=250 qagrade=3"
 pars1["NGC3338"] = "pix_list=-13,14,15  dv=250 dw=250 qagrade=3"
-pars1["NGC3430"] = "pix_list=-13,14,15  dv=150 dw=250 qagrade=3"
-pars1["NGC3486"] = "pix_list=-13,14,15  dv=150 dw=250 qagrade=3"
+pars1["NGC3430"] = "pix_list=-13,14,15  dv=250 dw=250 qagrade=3"
+pars1["NGC3486"] = "pix_list=-13,14,15  dv=250 dw=250 qagrade=3"
 pars1["NGC4189"] = "pix_list=-13,14,15  dv=150 dw=250 qagrade=3"
 pars1["NGC5012"] = "pix_list=-13,14,15  dv=300 dw=300 qagrade=3"
 pars1["NGC5347"] = "pix_list=-13,14,15  dv=150 dw=250 vlsr=2400 qagrade=3"
