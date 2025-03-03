@@ -29,17 +29,17 @@ on["NGC3430"] = [ 123376, 123378, 123380,    # nov 26
 on["NGC3486"] = [ 126936, 126938, 126940, 126946, 126948,       # feb 9
                   127068, 127070, 127072, 127080,]              # feb 10
 
-
-
 on["NGC4189"] = \
  [ 113113, 113115, 113117, 113462, 113464, 113466, 115034, 115036, 115038, 
    115040, 115044, 115046, 115048, 116485, 116487,]
+
+on["NGC4536"] = \
+ [ 127958, 127960, 127962, 128247, 128249, 128637,]
 
 on["NGC5012"] = \
  [ 124476, 124478,
    124758, 124760, 124762,
    124872, 124874, 124876, 124878,]
-
 
 on["NGC5347"] = \
  [ 112756, 112758, 112760, 112762, 112764, 112770, 112772, 112774, 112776, 
@@ -56,6 +56,7 @@ pars1["NGC3338"] = "pix_list=-13,14,15  dv=250 dw=250 qagrade=3"
 pars1["NGC3430"] = "pix_list=-13,14,15  dv=250 dw=250 qagrade=3"
 pars1["NGC3486"] = "pix_list=-13,14,15  dv=250 dw=250 qagrade=3"
 pars1["NGC4189"] = "pix_list=-13,14,15  dv=150 dw=250 qagrade=3"
+pars1["NGC4536"] = "pix_list=-13,14,15  dv=150 dw=250"
 pars1["NGC5012"] = "pix_list=-13,14,15  dv=300 dw=300 qagrade=3"
 pars1["NGC5347"] = "pix_list=-13,14,15  dv=150 dw=250 vlsr=2400 qagrade=3"
 pars1["NGC5899"] = "pix_list=-13,14,15  dv=350 dw=400 vlsr=2650 qagrade=3"
@@ -68,6 +69,7 @@ pars2["NGC3338"] = "bank=0 pix_list=-13"
 pars2["NGC3430"] = "bank=0 pix_list=-13"
 pars2["NGC3486"] = "bank=0 pix_list=-13"
 pars2["NGC4189"] = "bank=0 pix_list=-13"
+pars1["NGC4536"] = "bank=0 pix_list=-13"
 pars2["NGC5012"] = "bank=0 pix_list=-13"
 pars2["NGC5347"] = "bank=0 pix_list=-13"
 pars2["NGC5899"] = "bank=0 pix_list=-13"
@@ -80,6 +82,7 @@ pars3["NGC3338"] = "bank=1 pix_list=-13,14,15"
 pars3["NGC3430"] = "bank=1 pix_list=-13,14,15"
 pars2["NGC3486"] = "bank=1 pix_list=-13,14,15"
 pars3["NGC4189"] = "bank=1 pix_list=-13,14,15"
+pars1["NGC4536"] = "bank=1 pix_list=-13,14,15"
 pars3["NGC5012"] = "bank=1 pix_list=-13,14,15"
 pars3["NGC5347"] = "bank=1 pix_list=-13,14,15"
 pars3["NGC5899"] = "bank=1 pix_list=-13,14,15"
