@@ -32,6 +32,9 @@
 124748__1  beam 7 wavy           #pix_list=-7,13,14,15
 124750__1  beam 7 wavy           #pix_list=-7,13,14,15
 
+129493     wavys                 # pix_list=-0,1,2,4,6,13
+129495     wavys                 # pix_list=-0,1,2,4,6,13
+
 
 112756_112960__0 [13/13] Strong detection bank 0
 112756_112960__1 [13/13] Weak detection bank 1
