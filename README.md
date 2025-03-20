@@ -12,14 +12,16 @@ NGC3338 - detection
 
 NGC3430 - detection, unclear at 13CO
 
+NGC3486 - detection
+
 NGC4189 - detection
 
-NGC5347 - detection, but vlsr seems bit higher ~2400 (NED:  2380)
+NGC4536 - detection (but dual bank issues?   there's SB0 and SB1 also; SB0 very clear detecting in 12CO)
 
 NGC5012 - detection, signal very wide, we picked dv=300
+
+NGC5347 - detection, but vlsr seems bit higher ~2400 (NED:  2380)
 
 NGC5899 - detection, but signal was much wider, probably needs dv=350. 
           also vlsr=2650 or so, but needs checking with NED ? PI seems to give
           lower value
-
-
