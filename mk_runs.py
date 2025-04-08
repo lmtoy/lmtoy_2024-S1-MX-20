@@ -48,6 +48,9 @@ on["NGC5012"] = \
    124758, 124760, 124762,
    124872, 124874, 124876, 124878,]
 
+on["NGC5033"] = \
+ [ 132880, 132882, 132890,]
+
 on["NGC5033_SB0"] = \
  [ 131329, 131381, 131717, 132095, 132103, 132136,]
 
@@ -73,6 +76,7 @@ pars1["NGC4536"] = "pix_list=-13,14,15  dv=250 dw=250"
 pars1["NGC4536_SB0"] = "dv=250 dw=250"
 pars1["NGC4536_SB1"] = "dv=250 dw=250"
 pars1["NGC5012"] = "pix_list=-13,14,15  dv=300 dw=300 qagrade=3"
+pars1["NGC5033"]     = "dv=300 dw=300"
 pars1["NGC5033_SB0"] = "dv=300 dw=300"
 pars1["NGC5033_SB1"] = "dv=300 dw=300"
 pars1["NGC5347"] = "pix_list=-13,14,15  dv=150 dw=250 vlsr=2400 qagrade=3"
@@ -90,6 +94,7 @@ pars2["NGC4536"] = "bank=0 pix_list=-13"
 pars2["NGC4536_SB0"] = "bank=0 pix_list=-13"
 pars2["NGC4536_SB1"] = "bank=0 pix_list=-13"
 pars2["NGC5012"] = "bank=0 pix_list=-13"
+pars2["NGC5033"]     = "bank=0 pix_list=-13"
 pars2["NGC5033_SB0"] = "bank=0 pix_list=-13"
 pars2["NGC5033_SB1"] = "bank=0 pix_list=-13"
 pars2["NGC5347"] = "bank=0 pix_list=-13"
@@ -105,6 +110,7 @@ pars3["NGC3486"] = "bank=1 pix_list=-13,14,15"
 pars3["NGC4189"] = "bank=1 pix_list=-13,14,15"
 pars3["NGC4536"] = "bank=1 pix_list=-13,14,15"
 pars3["NGC5012"] = "bank=1 pix_list=-13,14,15"
+pars2["NGC5033"] = "bank=1 pix_list=-13,14,15"
 pars3["NGC5347"] = "bank=1 pix_list=-13,14,15"
 pars3["NGC5899"] = "bank=1 pix_list=-13,14,15"
 
