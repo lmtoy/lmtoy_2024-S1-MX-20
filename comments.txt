@@ -65,4 +65,52 @@
 124750_124762 [3/3]
 
 127958_128637__0  strong detection
-127958_128637__1  weak detection 
+127958_128637__1  weak detection
+
+# removing pixels
+124458__1  beam 7 "wavy"   #pix_list=-7,13,14,15  qagrade=3
+# Tues April 29th - Thu May 1
+127958__1  beam 7 "wavy"   #pix_list=-7,13,14,15   qagrade=3
+127911__1  beam 7 "wavy"   #pix_list=-7,13,14,15   qagrade=3
+131669     wavys           #pix_list=-1,2,6,13   qagrade=3
+131671     wavys           #pix_list=-1,2,6,13  qagrade=3
+131717     wavys           #pix_list=-1,2,6,13  qagrade=3
+131721     wavys           #pix_list=-1,2,6,13  qagrade=3
+132097     wavys           #pix_list=-1,2,6,13  qagrade=3
+132103     wavys           #pix_list=-0,1,2,6,13  qagrade=3
+132105     wavys           #pix_list=-0,4,1,6,13  qagrade=3
+132136     wavys           #pix_list=-0,1,6,13  qagrade=3
+132200     wavys           #pix_list=-0,1,2,4,6,13  qagrade=3
+132202     wavys           #pix_list=-0,1,2,4,6,7,13  qagrade=3
+132880__0  wavys           #pix_list=-0,1,2,4,6,8,13  qagrade=3
+132882__0  wavys           #pix_list=-0,1,2,4,6,5,13  qagrade=3
+132882__1  beam 7 "wavy"   #pix_list=-7,13,14,15  qagrade=3
+132890__0  wavys           #pix_list=-0,1,2,4,6,13   qagrade=3
+132890__1  wavys           #pix_list=-6,7,13,14,15   qagrade=3
+133279__1  beam 7 "wavy"   #pix_list=-7,13,14,15  qagrade=3
+133281__1  wavys           #pix_list=-1,7,13,14,15   qagrade=3
+133291__1  beam 7 "wavy"   #pix_list=-0,7,13,14,15  qagrade=3
+# Friday May 2nd
+126802__1  beam 7 "wavy"   #pix_list=-7,13,14,15  qagrade=3
+129495     wavys           #pix_list=-0,1,2,4,6,13  qagrade=3
+131319     wavys           #pix_list=-0,1,2,4,6,13  qagrade=3
+131321     wavys           #pix_list=-0,1,2,4,6,13  qagrade=3
+131329     wavys           #pix_list=-0,1,2,4,6,13  qagrade=3
+131331     wavys           #pix_list=-0,1,2,4,6,13  qagrade=3
+131340     wavys           #pix_list=-0,1,2,4,6,13  qagrade=3
+131373     wavys           #pix_list=-0,1,2,4,6,13  qagrade=3
+131381     wavys           #pix_list=-0,1,2,4,6,13  qagrade=3
+131383     wavys           #pix_list=-0,1,2,4,6,13  qagrade=3
+# passing other obsnums
+127958          #qagrade=3
+127960		#qagrade=3
+127962          #qagrade=3
+128247          #qagrade=3
+128249          #qagrade=3
+128637          #qagrade=3
+129439          #qagrade=3
+132880__1       #qagrade=3
+133279__0       #qagrade=3
+133281__0       #qagrade=3
+133291__0       #qagrade=3
+
