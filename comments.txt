@@ -50,7 +50,9 @@
 
 
 
-
+135085__1                        # pix_list=-1,7,13,15
+135087__0  QAFAIL                # pix_list=1
+135087__1  QAFAIL                # pix_list=11
 
 
 112756_112960__0 [13/13] Strong detection bank 0
