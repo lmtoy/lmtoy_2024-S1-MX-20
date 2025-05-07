@@ -72,15 +72,6 @@
 # Tues April 29th - Thu May 1
 127958__1  beam 7 "wavy"   #pix_list=-7,13,14,15   qagrade=3
 127911__1  beam 7 "wavy"   #pix_list=-7,13,14,15   qagrade=3
-131671     wavys           #pix_list=-1,2,6,13  qagrade=3
-131717     wavys           #pix_list=-1,2,6,13  qagrade=3
-131721     wavys           #pix_list=-1,2,6,13  qagrade=3
-132097     wavys           #pix_list=-1,2,6,13  qagrade=3
-132103     wavys           #pix_list=-0,1,2,6,13  qagrade=3
-132105     wavys           #pix_list=-0,4,1,6,13  qagrade=3
-132136     wavys           #pix_list=-0,1,6,13  qagrade=3
-132200     wavys           #pix_list=-0,1,2,4,6,13  qagrade=3
-132202     wavys           #pix_list=-0,1,2,4,6,7,13  qagrade=3
 132880__0  wavys           #pix_list=-0,1,2,4,6,8,13  qagrade=3
 132882__0  wavys           #pix_list=-0,1,2,4,6,5,13  qagrade=3
 132882__1  beam 7 "wavy"   #pix_list=-7,13,14,15  qagrade=3
@@ -91,13 +82,6 @@
 133291__1  beam 7 "wavy"   #pix_list=-0,7,13,14,15  qagrade=3
 # Friday May 2nd
 126802__1  beam 7 "wavy"   #pix_list=-7,13,14,15  qagrade=3
-129495     wavys           #pix_list=-0,1,2,4,6,13  qagrade=3
-131321     wavys           #pix_list=-0,1,2,4,6,13  qagrade=3
-131329     wavys           #pix_list=-0,1,2,4,6,13  qagrade=3
-131331     wavys           #pix_list=-0,1,2,4,6,13  qagrade=3
-131373     wavys           #pix_list=-0,1,2,4,6,13  qagrade=3
-131381     wavys           #pix_list=-0,1,2,4,6,13  qagrade=3
-131383     wavys           #pix_list=-0,1,2,4,6,13  qagrade=3
 # passing other obsnums
 127958          #qagrade=3
 127960		#qagrade=3
@@ -117,3 +101,24 @@
 131319  wavys   
 131340  wavys   
 
+# Tuesday May 6th NGC4536_SB1
+129495  wavys
+131321  wavys
+131373  wavys
+131671  wavys
+
+# Tuesday May 6th NGC5033_SB0
+131329  wavys
+131381  wavys
+131717  wavys
+132103  wavys
+132136  wavys (pixels 2 and 4 fine)  #pix_list=-0,1,6,13
+132200  wavys
+
+# Tuesday May 6th NGC5033_SB1
+131721  wavys
+131331  wavys
+131383  wavys
+132097  wavys
+132105  wavys
+132202  wavys
