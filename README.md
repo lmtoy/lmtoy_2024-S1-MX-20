@@ -20,6 +20,8 @@ NGC4536 - detection (but dual bank issues?   there's SB0 and SB1 also; SB0 very 
 
 NGC5012 - detection, signal very wide, we picked dv=300
 
+NGC5033 - detection, but some data in SB0 and SB1
+
 NGC5347 - detection, but vlsr seems bit higher ~2400 (NED:  2380)
 
 NGC5899 - detection, but signal was much wider, probably needs dv=350. 
