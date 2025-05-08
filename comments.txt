@@ -74,14 +74,7 @@
 127911__1  beam 7 "wavy"   #pix_list=-7,13,14,15   qagrade=3
 # Friday May 2nd
 126802__1  beam 7 "wavy"   #pix_list=-7,13,14,15  qagrade=3
-# passing other obsnums
-127958          #qagrade=3
-127960		#qagrade=3
-127962          #qagrade=3
-128247          #qagrade=3
-128249          #qagrade=3
-128637          #qagrade=3
-129439          #qagrade=3
+
 
 # Monday May 5th NGC4536_SB0
 129493  wavys   
@@ -123,3 +116,9 @@
 133281__1  wavys  #pix_list=-1,7,13,14,15
 133291__0  wavys  #pix_list=-3,13
 133291__1  wavys  #pix_list=-0,7,13,14,15
+
+# Thursday May 8th combos
+132880_133291  strong detection bank 0, no obvious detection bank 1
+131329_132200  strong detection
+129493_131669  weak detection
+127958_128637  strong detection bank 0, no obvious detection bank 1
