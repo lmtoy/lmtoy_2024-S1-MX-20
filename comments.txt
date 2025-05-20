@@ -55,6 +55,12 @@
 135087__1  QAFAIL weather?       # pix_list=11
 
 
+136003__0  wavys in 8            # pix_list=-8,13
+136003__1  wavys in 8            # pix_list=-8,13,15
+136005__1  wavys in 1            # pix_list=-1,13,15
+136007     QAFAIL
+
+
 112756_112960__0 [13/13] Strong detection bank 0
 112756_112960__1 [13/13] Weak detection bank 1
 113113_116487__0 [15/15] Strong detection 
