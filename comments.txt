@@ -54,6 +54,8 @@
 135087__0  QAFAIL weather?       # pix_list=1
 135087__1  QAFAIL weather?       # pix_list=11
 
+135518__1  drifting wavy         # pix_list=-7,13,15
+
 
 136003__0  wavys in 8            # pix_list=-8,13
 136003__1  wavys in 8            # pix_list=-8,13,15
