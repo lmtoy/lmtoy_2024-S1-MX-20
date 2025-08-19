@@ -27,3 +27,11 @@ NGC5347 - detection, but vlsr seems bit higher ~2400 (NED:  2380)
 NGC5899 - detection, but signal was much wider, probably needs dv=350. 
           also vlsr=2650 or so, but needs checking with NED ? PI seems to give
           lower value
+
+
+NGC4536_SB0
+NGC4536_SB1
+
+NGC5033_SB0
+NGC5033_SB1
+
