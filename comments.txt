@@ -21,8 +21,6 @@
 123376__1  beam 1 wavy    	#pix_list=-1,13,14,15
 123378__1  beam 1 weak wavy     #pix_list=-1,13,14,15
 123549__1  beam 1 wavy	        #pix_list=-1,13,14,15
-124121__1  submitted for re-observation, beam 1,7 wavy #pix_list=-1,-7,13,14,15
-124456__1  submitted for re-observation, beam 1,7 wavy #pix_list=-1,-7,13,14,15
 124458__1  beam 7 wavy                                 #pix_list=-7,13,14,15
 124466__1  beam 7 wavy           #pix_list=-7,13,14,15
 124476__1  beam 7 wavy           #pix_list=-7,13,14,15
@@ -32,37 +30,62 @@
 124748__1  beam 7 wavy           #pix_list=-7,13,14,15
 124750__1  beam 7 wavy           #pix_list=-7,13,14,15
 
-129493     wavys                 # pix_list=-0,1,2,4,6,13
-129495     wavys                 # pix_list=-0,1,2,4,6,13
 
 
-129493     wavys                 # pix_list=-0,1,2,4,6,13
-129495     wavys                 # pix_list=-0,1,2,4,6,13
+# individual pix removal Nov 9
 
-131319     wavys                 # pix_list=-0,1,2,4,6,13
-131321     wavys                 # pix_list=-0,1,2,4,6,13
-131329     wavys                 # pix_list=-0,1,2,4,6,13
-131331     wavys                 # pix_list=-0,1,2,4,6,13
-131340     wavys                 # pix_list=-0,1,2,4,6,13
-131373     wavys                 # pix_list=-0,1,2,4,6,13
-131381     wavys                 # pix_list=-0,1,2,4,6,13
-131383     wavys                 # pix_list=-0,1,2,4,6,13
+# NGC4536_SB0 
+129493    wavys 0,1,2,4,6         # pix_list=-0,1,2,4,6,13
+131319    wavys 0,1,2,4,6         # pix_list=-0,1,2,4,6,13
+131340    wavys 0,1,2,4,6         # pix_list=-0,1,2,4,6,13
+131669    wavys 0,1,2,4,6         # pix_list=-0,1,2,4,6,13
 
+# NGC4536_SB1
+129495    wavys 0,1,2,4,6         # pix_list=-0,1,2,4,6,13
+131321    wavys 0,1,2,4,6         # pix_list=-0,1,2,4,6,13
+131373    wavys 0,1,2,4,6         # pix_list=-0,1,2,4,6,13
+131671    wavys 0,1,2,4,6         # pix_list=-0,1,2,4,6,13
 
-
-135085__1                        # pix_list=-1,7,13,15
-135087__0  QAFAIL weather?       # pix_list=1
-135087__1  QAFAIL weather?       # pix_list=11
-
-135518__1  drifting wavy         # pix_list=-7,13,15
-
-
+# NGC5033
+136007__0  [QAFAIL] instrument failure          #qagrade=-2
+136007__1  wavys in 0,4         #pix_list=-0,4,13,15
 136003__0  wavys in 8            # pix_list=-8,13
 136003__1  wavys in 8            # pix_list=-8,13,15
 136005__1  wavys in 1            # pix_list=-1,13,15
-136007     QAFAIL
+135518__1  beam 7 wavy          #pix_list=-7,13,15
+135087__0  [QAFAIL] instrument failure         #pix_list=1 qagrade=-2
+135087__1  [QAFAIL] instrument failure         #pix_list=11 qagrade=-2
+135085__0  wavys in 1,13        #pix_list=-1,13
+135085__1  wavys 1,7,15         #pix_list=-1,7,13,15
+133291__0  birdies 1,3          #pix_list=-1,3,13
+133291__1  wavys in 0,7		#pix_list=-0,7,13,15
+133281__1  wavys in 1,7         #pix_list=-1,7,13,15
+133279__1  beam 7 wavy          #pix_list=-7,13,15
+133279__0  birdies 1,3          #pix_list=-1,3,13
+132890__1  beam 7 wavy          #pix_list=-7,13,15
+132890__0  wavys 0,1,2,4,6      #pix_list=-0,1,2,4,6,13
+132882__0  wavys 0,1,2,4,5,6,8  #pix_list=-0,1,2,3,4,5,6,8,13
+132882__1  wavys 7,13,15        #pix_list=-7,13,15
+132880__0  wavys 0,1,2,6        #pix_list=-0,1,2,6,13
+
+# NGC5033_SB0
+131329     wavys 0,1,2,4,6      # pix_list=-0,1,2,4,6,13
+131381     wavys 0,1,2,4,6      # pix_list=-0,1,2,4,6,13
+131717     wavys 0,1,2,4,6      # pix_list=-0,1,2,4,6,13
+132013     wavys 0,1,2,4,6      # pix_list=-0,1,2,4,6,13
+132136     wavys 0,1,6          # pix_list=-0,1,6,13
+132200     wavys 0,1,2,6        # pix_list=-0,1,2,6,13
+
+# NGC5033_SB1
+131331     wavys 0,1,2,4,6      # pix_list=-0,1,2,4,6,13
+131383     wavys 0,1,2,4,6      # pix_list=-0,1,2,4,6,13
+131721     wavys 0,1,2,4,6      # pix_list=-0,1,2,4,6,13
+132097     wavys 0,1,2,4,6      # pix_list=-0,1,2,4,6,13
+132105     wavys 0,1,4,6        # pix_list=-0,1,4,6,13
+132202     wavys 0,1,2,4,6,7    # pix_list=-0,1,2,4,6,7,13
 
 
+# combos Pre Nov 9
 112756_112960__0 [13/13] Strong detection bank 0
 112756_112960__1 [13/13] Weak detection bank 1
 113113_116487__0 [15/15] Strong detection 
