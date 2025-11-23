@@ -1,52 +1,71 @@
 #  <obsnum>   <comment>     # <SLpipeline args>
 #
 
-112958 Birdie around channel ~800 [bank 1 only]
-112960 Birdie around channel ~800 [bank 1 only]
 
-123376__1  beam 1 bad         # pix_list=-1,13,14,15
-123378__1  beam 1 bad         # pix_list=-1,13,14,15
-123380__1  beam 1 now ok
+# NGC5347
+112756_112960  [13/13]     #qagrade=0
+112958__1 Birdie around channel ~800 #qagrade=2
+112960__1 Birdie around channel ~800 #qagrade=2
 
-113113 birdies beam 10 (~1860 km/s) and 11 (~2090 km/s)
-114784 birdies beam 1 and 6 channel ~400; BANK 1: birdie beam 3 channel ~400
+# NGC5899
+114780_116501  [13/13]    #qagrade=0
+114784__0 birdies beam 1 and 6 channel ~400   #pix_list=-1,6,13,14,15  
+114784__1 birdie beam 3 channel ~400 #qagrade=2
 
+# IC3392
+113121_124135  [9/9]       #qagrade=0
 113472__0 beam 1 "wavy"    # pix_list=-1,13,14,15
 
-116497__0  lots small wavys
-116499__0 lots small wavys
-116501__1 beam 4 tsys edge
-
-
-123376__1  beam 1 wavy    	#pix_list=-1,13,14,15
-123378__1  beam 1 weak wavy     #pix_list=-1,13,14,15
-123549__1  beam 1 wavy	        #pix_list=-1,13,14,15
-124458__1  beam 7 wavy                                 #pix_list=-7,13,14,15
+# NGC3338
+124466_126792  [10/10]           #qagrade=0
 124466__1  beam 7 wavy           #pix_list=-7,13,14,15
-124476__1  beam 7 wavy           #pix_list=-7,13,14,15
-124478__1  beam 7 weak wavy      #pix_list=-7,13,14,15
 124744__1  beam 1 wavy           #pix_list=-1,13,14,15
 124746__1  beam 7 wavy           #pix_list=-7,13,14,15
 124748__1  beam 7 wavy           #pix_list=-7,13,14,15
 124750__1  beam 7 wavy           #pix_list=-7,13,14,15
 
+# NGC5012
+124476_124878  [9/9]
+124478__1  beam 7 weak wavy      #pix_list=-7,13,14,15
 
+# NGC3430
+123376_126930  [11/11]          #qagrade=0
+123380__1  beam 1 now ok
+123549__1  beam 1 wavy          #pix_list=-1,13,14,15
+123378__1  beam 1 weak wavy     #pix_list=-1,13,14,15
+123376__1  beam 1 wavy          #pix_list=-1,13,14,15
+124121__1  wavys in 1,7         #pix_list=-1,7,13,14,15
+126802__1  beam 7 wavy            # pix_list=-7,13,14,15
+124458__1  beam 7 wavy                                 #pix_list=-7,13,14,15
+116501__1 beam 4 tsys edge
 
-# individual pix removal Nov 9
+# NGC4189
+113113_116487  [15/15]            # qagrade=0
+
+# NGC3486
+126936_127913  [11/11]            # qagrade=0
+127911__1  beam 7 wavy            # pix_list=-7,13,14,15
+127958__1  beam 7 wavy            # pix_list=-7,13,14,15
+
+# NGC4536
+127958_128637  [6/6]              # qagrade=0
 
 # NGC4536_SB0 
+129493_131669  [4/4]              # qagrade=0
 129493    wavys 0,1,2,4,6         # pix_list=-0,1,2,4,6,13
 131319    wavys 0,1,2,4,6         # pix_list=-0,1,2,4,6,13
 131340    wavys 0,1,2,4,6         # pix_list=-0,1,2,4,6,13
 131669    wavys 0,1,2,4,6         # pix_list=-0,1,2,4,6,13
 
 # NGC4536_SB1
+129495_131671  [4/4]              # qagrade=0
 129495    wavys 0,1,2,4,6         # pix_list=-0,1,2,4,6,13
 131321    wavys 0,1,2,4,6         # pix_list=-0,1,2,4,6,13
 131373    wavys 0,1,2,4,6         # pix_list=-0,1,2,4,6,13
 131671    wavys 0,1,2,4,6         # pix_list=-0,1,2,4,6,13
 
 # NGC5033
+132880_136005  [14/16]           # qagrade=0
 136007__0  [QAFAIL] instrument failure          #qagrade=-2
 136007__1  wavys in 0,4         #pix_list=-0,4,13,15
 136003__0  wavys in 8            # pix_list=-8,13
@@ -69,6 +88,7 @@
 132880__0  wavys 0,1,2,6        #pix_list=-0,1,2,6,13
 
 # NGC5033_SB0
+131329_132200  [7/7]            # qagrade=0
 131329     wavys 0,1,2,4,6      # pix_list=-0,1,2,4,6,13
 131381     wavys 0,1,2,4,6      # pix_list=-0,1,2,4,6,13
 131717     wavys 0,1,2,4,6      # pix_list=-0,1,2,4,6,13
@@ -77,6 +97,7 @@
 132200     wavys 0,1,2,6        # pix_list=-0,1,2,6,13
 
 # NGC5033_SB1
+131331_132202  [7/7]            # qagrade=0
 131331     wavys 0,1,2,4,6      # pix_list=-0,1,2,4,6,13
 131383     wavys 0,1,2,4,6      # pix_list=-0,1,2,4,6,13
 131721     wavys 0,1,2,4,6      # pix_list=-0,1,2,4,6,13
@@ -85,17 +106,3 @@
 132202     wavys 0,1,2,4,6,7    # pix_list=-0,1,2,4,6,7,13
 
 
-# combos Pre Nov 9
-112756_112960__0 [13/13] Strong detection bank 0
-112756_112960__1 [13/13] Weak detection bank 1
-113113_116487__0 [15/15] Strong detection 
-113113_116487__1 [15/15] weak detection 
-114780_116501__0 [13/13] Strong detection 
-114780_116501__1 [13/13] weak detection
-124476_124478 [5/5] Strong detection bank 0, no obvious detection bank 1
-124466_124750 [5/5] Strong detection bank 0, no obvious detection 1
-113121_113476 [10/10] Strong detection bank 0, weak detection bank 1
-124750_124762 [3/3]
-
-127958_128637__0  strong detection
-127958_128637__1  weak detection 
